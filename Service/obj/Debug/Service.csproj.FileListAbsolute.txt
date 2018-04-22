@@ -1,0 +1,7 @@
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\Service\bin\Debug\Service.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\Service\bin\Debug\Service.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\Service\bin\Debug\IServiceBehaviorExtensibility.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\Service\bin\Debug\IServiceBehaviorExtensibility.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\Service\obj\Debug\Service.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\Service\obj\Debug\Service.pdb

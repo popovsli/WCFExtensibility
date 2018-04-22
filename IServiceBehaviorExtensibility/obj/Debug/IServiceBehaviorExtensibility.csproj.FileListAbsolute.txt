@@ -1,0 +1,4 @@
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\IServiceBehaviorExtensibility\bin\Debug\IServiceBehaviorExtensibility.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\IServiceBehaviorExtensibility\bin\Debug\IServiceBehaviorExtensibility.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\IServiceBehaviorExtensibility\obj\Debug\IServiceBehaviorExtensibility.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\IServiceBehaviorExtensibility\obj\Debug\IServiceBehaviorExtensibility.pdb

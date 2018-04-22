@@ -1,0 +1,10 @@
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\bin\Debug\PocoServiceHost.exe.config
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\bin\Debug\PocoServiceHost.exe
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\bin\Debug\PocoServiceHost.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\bin\Debug\IServiceBehaviorExtensibility.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\bin\Debug\Service.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\bin\Debug\IServiceBehaviorExtensibility.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\bin\Debug\Service.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\obj\Debug\PocoServiceHost.csprojResolveAssemblyReference.cache
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\obj\Debug\PocoServiceHost.exe
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFExtensibility\PocoServiceHost\obj\Debug\PocoServiceHost.pdb
